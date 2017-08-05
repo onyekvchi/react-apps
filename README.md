@@ -4,6 +4,7 @@
 - [Instagram](https://www.instagram.com/)
 - [Spotify Web](https://open.spotify.com/)
 - [Deezer](https://deezer.com)
+- [Musixmatch](https://www.musixmatch.com/)
 - [Pinterest](https://www.pinterest.com/)
 - [Airbnb](https://www.airbnb.com/)
 - [Feedly](https://feedly.com/)
