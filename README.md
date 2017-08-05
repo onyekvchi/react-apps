@@ -16,6 +16,7 @@
 - [Asana](https://asana.com)
 - [Bitbucket](https://bitbucket.org/)
 - [The Noun Project](https://thenounproject.com/)
+- [Giphy](https://giphy.com/)
 - [Flow](https://app.getflow.com)
 - [Helpscout](https://helpscout.com)
 - [Figma](https://figma.com)
