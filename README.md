@@ -27,6 +27,7 @@
 - [Ueno](https://ueno.com)
 - [Spectrum](https://spectrum.chat/)
 - [Bon Appetit](http://www.bonappetit.com/healthyish)
+- [Refinery 29](http://www.refinery29.com/)
 - [Roadmap](https://beta.onroadmap.com/)
 - [Jetty](https://www.jetty.com/app/)
 - [Zero](https://zerofinancial.com)
