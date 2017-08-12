@@ -10,7 +10,6 @@
 - [Feedly](https://feedly.com/)
 - [Mapbox](https://www.mapbox.com/)
 - [Udacity]( https://www.udacity.com/)
-- [Contentful](https://app.contentful.com/)
 - [Netflix](https://netflix.com)
 - [Slack](https://slack.com)
 - [Trello](https://trello.com/)
