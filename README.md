@@ -1,6 +1,7 @@
 - [Product Hunt](https://www.producthunt.com/)
 - [Paper](https://paper.dropbox.com/)
 - [Unsplash](https://unsplash.com/)
+- [Duolingo](https://duolingo.com/)
 - [Instagram](https://www.instagram.com/)
 - [Spotify Web](https://open.spotify.com/)
 - [Deezer](https://deezer.com)
