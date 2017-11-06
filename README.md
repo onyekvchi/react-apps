@@ -9,6 +9,7 @@
 - [Pinterest](https://www.pinterest.com/)
 - [Airbnb](https://www.airbnb.com/)
 - [Feedly](https://feedly.com/)
+- [Ted](https://www.ted.com)
 - [Mapbox](https://www.mapbox.com/)
 - [Udacity]( https://www.udacity.com/)
 - [Netflix](https://netflix.com)
