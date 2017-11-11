@@ -45,3 +45,4 @@
 - [The Newyorker](http://www.newyorker.com/)
 - [Design Better by Invision](https://www.designbetter.co/)
 - [Wealth Front](https://www.wealthfront.com/)
+- [Atlassian Stride](https://stride.com)
