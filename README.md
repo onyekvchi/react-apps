@@ -52,4 +52,5 @@
 - [Nike Store](https://store.nike.com)
 - [Sidebar](https://sidebar.io/)
 - [Lingo App](https://www.lingoapp.com)
+- [Ada](https://ada.com/)
 - [Before I Die](http://beforeidielagos.com/) 🙄
