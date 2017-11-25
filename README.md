@@ -46,3 +46,9 @@
 - [Design Better by Invision](https://www.designbetter.co/)
 - [Wealth Front](https://www.wealthfront.com/)
 - [Atlassian Stride](https://stride.com)
+- [Uber](https://uber.com)
+- [Spectrum](https://spectrum.chat)
+- [Design+Code](https://designcode.io)
+- [Nike Store](https://store.nike.com)
+- [Sidebar](https://sidebar.io/)
+- [Before I Die](http://beforeidielagos.com/) 🙄
