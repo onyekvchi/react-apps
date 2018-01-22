@@ -54,3 +54,4 @@
 - [Ada](https://ada.com/)
 - [Before I Die](http://beforeidielagos.com/)
 - [Candid Co.](https://www.candidco.com/)
+- [Notion](https://notion.so)
