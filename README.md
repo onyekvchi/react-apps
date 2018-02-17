@@ -56,3 +56,5 @@
 - [Candid Co.](https://www.candidco.com/)
 - [Notion](https://notion.so)
 - [Boiler Room](https://boilerroom.tv/)
+- [Hims](https://www.forhims.com/)
+- [Sweatcoin](https://sweatco.in/)
